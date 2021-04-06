@@ -2,7 +2,7 @@
 name: "Valeria Cartagena"
 title: "Valeria Cartagena"
 description:
-  "This is my blog
+  <p> This is my blog
   
   and I am testing if 
 
@@ -14,7 +14,7 @@ description:
   
   
   
-  "
+  </p>
 logo: 'assets/images/small_logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: https://valeriacartagena.com
