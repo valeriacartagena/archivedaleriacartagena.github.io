@@ -1,7 +1,20 @@
 # Site
 name: "Valeria Cartagena"
 title: "Valeria Cartagena"
-description: "This is my blog"
+description:
+  "This is my blog
+  
+  and I am testing if 
+
+  
+
+  space is respected :) (5 lines down)
+  
+  
+  
+  
+  
+  "
 logo: 'assets/images/small_logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: https://valeriacartagena.com
