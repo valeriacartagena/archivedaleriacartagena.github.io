@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sálvese quien pueda"
-author: Andrés Oppenheimer
+author: valeria
 categories: [ books ]
 tags: [red, yellow]
 image: assets/images/Salvese_quien_pueda_portada.jpg
