@@ -17,7 +17,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Contact me on social media!</h5>
 
-<p>Let's talk! 
+<p>Let's talk! </p>
 <a target="_blank" href="https://www.linkedin.com/in/valeriacartagena" class="btn btn-danger">LinkedIn</a> <a target="_blank" href="https://www.instagram.com/valeriacartagenav_/" class="btn btn-warning">Instagram</a>
 
 </div>
