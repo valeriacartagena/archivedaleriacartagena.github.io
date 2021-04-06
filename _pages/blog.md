@@ -1,8 +1,9 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Blog | Valeria Cartagena
+permalink: /blog
+comments: true
 ---
-
 {% if page.url == "/" %}
 
 <!-- Featured
@@ -28,6 +29,28 @@ title: Home
 
 {% endif %}
 
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>All Stories</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
@@ -36,4 +59,3 @@ title: Home
     {% include pagination.html %}
 </span>
 </div>
-
