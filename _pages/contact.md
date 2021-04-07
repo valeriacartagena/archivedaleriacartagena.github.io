@@ -9,7 +9,6 @@ comments: true
 </script>
 ---
 
-<body>
 <div class="social-links">
     <a href="https://www.instagram.com/valeriacartagenav_/" target="_blank">
         i class="fab fa-instagram"></i>
@@ -88,4 +87,3 @@ comments: true
         color: #333333;
     }
    </style>
-</body>
