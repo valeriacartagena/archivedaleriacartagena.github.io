@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Options for creating a new site with Jekyll"
-author: john
+author: valeria
 categories: [ my projects]
 image: assets/images/13.jpg
 ---
