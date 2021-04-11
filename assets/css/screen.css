@@ -55,21 +55,6 @@ pre {
     transition: all 0.4s;
 }
 
-header nav .nav-right-section {
-    width: 250px;
-    height: auto;
-    display: flex;
-    list-style: none;
-    justify-content: center;
-    align-items: center;
-
-}
-
-nav .nav-right-section {
-    margin-right: 10px;
-    color: rgb(255, 255, 255);
-}
-
 section {
     margin-bottom: 20px;
 }
@@ -189,6 +174,21 @@ section.recent-posts {
     display: flex;
     align-items: center;
     margin-bottom: 15px;
+}
+
+.nav-right-section {
+    width: 250px;
+    height: auto;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nav-right-section {
+    margin-right: 10px;
+    color: rgb(255, 255, 255);
 }
 
 .author-thumb {
