@@ -2,7 +2,7 @@
 layout: post
 title:  "Let's test spoilers"
 author: valeria
-categories: [ books ]
+categories: [others]
 image: assets/images/12.jpg
 hidden: true
 ---
