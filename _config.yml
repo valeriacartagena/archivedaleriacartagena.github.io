@@ -2,19 +2,13 @@
 name: "Valeria Cartagena"
 title: "Valeria Cartagena"
 description:
-  <p> This is my blog
-  
-  and I am testing if 
+  <p> This is my blog </p>
+  <p></p>
+  <p>and I am testing</p>
+  <p></p>
+  <p>if</p>
+  <space>space is respected :) (5 lines down)</p>
 
-  
-
-  space is respected :) (5 lines down)
-  
-  
-  
-  
-  
-  </p>
 logo: 'assets/images/small_logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: https://valeriacartagena.com
