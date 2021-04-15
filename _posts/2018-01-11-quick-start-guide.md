@@ -2,8 +2,8 @@
 layout: post
 title:  "Let's test spoilers"
 author: valeria
-categories: [others]
-image: assets/images/12.jpg
+categories: [my projects]
+image: assets/images/white_bg.jpg
 hidden: true
 ---
 
