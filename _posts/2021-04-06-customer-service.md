@@ -6,7 +6,6 @@ categories: [ books ]
 tags: [red, yellow]
 image: assets/images/Salvese_quien_pueda_portada.jpg
 description: "My first written book review"
-featured: true
 hidden: true
 rating: 5
 ---

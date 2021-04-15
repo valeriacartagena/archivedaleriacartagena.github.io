@@ -4,6 +4,8 @@ title:  "Book Review: Outliers by Malcolm Gladwell"
 author: valeria
 categories: [ reviews ]
 image: assets/images/outliers_valeria.png
+featured: true
+hidden: true
 ---
 
 
