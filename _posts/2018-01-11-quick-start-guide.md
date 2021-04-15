@@ -4,7 +4,6 @@ title:  "Let's test spoilers"
 author: valeria
 categories: [ books ]
 image: assets/images/12.jpg
-featured: true
 hidden: true
 ---
 
