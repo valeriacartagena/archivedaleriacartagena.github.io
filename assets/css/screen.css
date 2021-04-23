@@ -914,3 +914,12 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.carousel-item {
+    max-height: 600px;
+}
+
+.btn-simple {
+    background-color: #1C9963;
+    border-color: #1C9963;
+}
