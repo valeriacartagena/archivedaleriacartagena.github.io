@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Review: Becoming by Michelle Obama"
 author: valeria
-categories: [ reviews ]
+categories: [ webinars ]
 image: assets/images/becoming_valeria.png
 beforetoc: ""
 toc: true

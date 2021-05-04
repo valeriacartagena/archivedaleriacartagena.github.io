@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Tu Beca Bolivia: the largest source of information about scholarships in Bolivia and how well it works with LinkedIn"
+title:  "Tu Beca Bolivia: the largest source of information about scholarships in Bolivia"
 author: valeria
-categories: [ leadership experience]
+categories: [ experience]
 image: assets/images/tbb_linkedin.jpg
 ---
 
