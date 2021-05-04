@@ -18,7 +18,7 @@ Watch this webinar <a href="https://fb.watch/5h9xETpVgm/">here</a>.
 <!-- <img class="cover-two" src="https:valeriacartagena.com/assets/images/banner_entrevista.png" alt="Cover2"> -->
 Watch this webinar <a href="https://www.facebook.com/watch/live/?v=347103873386691&ref=watch_permalink">here</a>.
 
-<img class="featured-image img-fluid" src="https://valeriacartagena.com/assets/images/my_journey.png" alt="Interviewing amazing people">
+<!-- <img class="featured-image img-fluid" src="https://valeriacartagena.com/assets/images/my_journey.png" alt="Interviewing amazing people"> -->
 
 <p></p>
 
