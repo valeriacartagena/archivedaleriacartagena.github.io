@@ -10,12 +10,12 @@ Being part of the Technology Coordination at <a href="https://www.facebook.com/T
 
 ## Special Week of Women in Science and Technology: Interview with Julieta Romero
 
-<img class="cover-one" src="https:valeriacartagena.com/assets/images/entrevista_julieta.png" alt="Cover1">
+<!-- <img class="cover-one" src="https:valeriacartagena.com/assets/images/entrevista_julieta.png" alt="Cover1"> -->
 Watch this webinar <a href="https://fb.watch/5h9xETpVgm/">here</a>.
 <p></p>
 
 ## Introduction to Artificial Intelligence with Alejandro Núñez
-<img class="cover-two" src="https:valeriacartagena.com/assets/images/banner_entrevista.png" alt="Cover2">
+<!-- <img class="cover-two" src="https:valeriacartagena.com/assets/images/banner_entrevista.png" alt="Cover2"> -->
 Watch this webinar <a href="https://www.facebook.com/watch/live/?v=347103873386691&ref=watch_permalink">here</a>.
 
 <img class="featured-image img-fluid" src="https://valeriacartagena.com/assets/images/my_journey.png" alt="Interviewing amazing people">
@@ -23,6 +23,6 @@ Watch this webinar <a href="https://www.facebook.com/watch/live/?v=3471038733866
 <p></p>
 
 ## Interview to Amiel Quino Mendoza - Med Student
-<img class="cover-three" src="https:valeriacartagena.com/assets/images/entrevista_amiel.png" alt="Cover3">
+<!-- <img class="cover-three" src="https:valeriacartagena.com/assets/images/entrevista_amiel.png" alt="Cover3"> -->
 Listen to this Podcast Episode <a href="https://open.spotify.com/episode/1IWJPh3M4mUhUiTwIzEyxR/">here</a>.
 <p></p>
