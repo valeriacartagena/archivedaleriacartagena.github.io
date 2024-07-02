@@ -5,36 +5,34 @@ permalink: /cv
 comments: true
 ---
 
-# Your Name
+## valeria cartagena
+### My contact information
+- Email: valecv@stanford.edu
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/valeriacartagena)
+- Let's [code](https://github.com/valeriacartagena)
 
-## Contact Information
-
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/valeriacartagena)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-
-## Education
+### Education
 
 - **Stanford University**
   - *Bachelor of Science in Chemical Engineering*
   - *Expected Graduation: June 2027*
 
-## Experience
+### Experience
 
-- **Intern, Company Name**
-  - *Summer 20XX*
-  - Description of responsibilities and achievements
+- **Chemical Enginering REU, Stanford University**
+  *Summer 2024*
+  - Wait to see my progress!
 
-## Skills
+### Skills
 
 - Technical Skills: List relevant skills (e.g., programming languages, software)
 - Soft Skills: List communication, teamwork, etc.
 
-## Awards and Achievements
+### Awards and Achievements
 
 - List any relevant awards or achievements
 
-## References
+### References
 
 - Available upon request
 
