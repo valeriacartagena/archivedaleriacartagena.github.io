@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog | Valeria Cartagena
-permalink: /categories
+permalink: /blog
 comments: true
 ---
 <!-- Pagination
